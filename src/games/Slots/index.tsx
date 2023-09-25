@@ -8,6 +8,6 @@ export default {
     Play and pray. At the top of the slot machine you can see your potential rewards. Always fair.
   `,
   image,
-  theme_color: '#ffffff',
+  theme_color: '#fffff',
   app: React.lazy(() => import('./App')),
 }
