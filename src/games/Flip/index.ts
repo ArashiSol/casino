@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './logo.png'
+import image from './flip.png'
 
 export default {
   name: 'Flip',
