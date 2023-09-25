@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './slots.png'
+import image from './slots2.png'
 
 export default {
   name: 'Slots',
@@ -8,6 +8,6 @@ export default {
     Play and pray. At the top of the slot machine you can see your potential rewards. Always fair.
   `,
   image,
-  theme_color: '#d185ff',
+  theme_color: '#ffffff',
   app: React.lazy(() => import('./App')),
 }
