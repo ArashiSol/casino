@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './logo.png'
+import image from './rl.png'
 
 export default {
   name: 'Roulette',
