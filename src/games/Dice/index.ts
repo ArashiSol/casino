@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './dice1.png'
+import image from './dice3.png'
 
 export default {
   name: 'Dice',
@@ -8,6 +8,6 @@ export default {
     Use the slider to pick a number, then roll below that number to win. Lower numbers will increase your potential payout, while higher ones are safer.
   `,
   image,
-  theme_color: 'rgb(255 100 144)',
+  theme_color: '#E4E2E9',
   app: React.lazy(() => import('./App')),
 }
