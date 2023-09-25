@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './dice.png'
+import image from './dice1.png'
 
 export default {
   name: 'Dice',
