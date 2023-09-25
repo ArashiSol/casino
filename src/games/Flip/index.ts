@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './flip.png'
+import image from './flip3.png'
 
 export default {
   name: 'Flip',
@@ -8,6 +8,6 @@ export default {
     Pick Heads or Tails. Double your money or go broke. Simple as.
   `,
   image,
-  theme_color: 'rgb(255 218 121)',
+  theme_color: '#ccffff',
   app: React.lazy(() => import('./App')),
 }
