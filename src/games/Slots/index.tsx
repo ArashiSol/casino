@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './logo.png'
+import image from './slots.png'
 
 export default {
   name: 'Slots',
