@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './logo-removebg-preview.png'
+import image from './dice.png'
 
 export default {
   name: 'Dice',
