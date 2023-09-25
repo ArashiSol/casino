@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './rl.png'
+import image from './rl3.png'
 
 export default {
   name: 'Roulette',
@@ -8,6 +8,6 @@ export default {
     A miniature version of Roulette. WYSIWYG!
   `,
   image,
-  theme_color: 'rgb(29 232 126)',
+  theme_color: '#FFD1B0',
   app: React.lazy(() => import('./App')),
 }
